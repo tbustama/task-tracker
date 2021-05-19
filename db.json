@@ -5,6 +5,12 @@
       "text": "Go to Fresno",
       "day": "May 15th at 11:00am",
       "reminder": true
+    },
+    {
+      "text": "Cook our pork shoulder",
+      "day": "May 18th at 7:00pm",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
